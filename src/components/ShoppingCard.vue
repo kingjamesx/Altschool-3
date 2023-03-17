@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#f6f7f8] w-[25%]  rounded-lg  flex flex-col gap-10 ">
+    <div class="bg-[#f6f7f8] lg:w-[25%]  rounded-lg  flex flex-col gap-10 ">
     <span class="block p-5">
         <p class="pb-10 text-3xl font-bold">{{title}}</p>
      <p class="">{{text}}</p>

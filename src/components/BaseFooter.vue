@@ -1,10 +1,10 @@
 <template>
-    <section class="flex p-10 justify-center gap-[14rem] border-t-2 " >
+    <section class="flex flex-col md:flex-row p-10 justify-center gap-2 md:gap-[14rem] border-t-2 " >
         <div >
             <p class="text-xl font-semibold">AltCart</p>
         </div> 
-        <div class="flex gap-8">
-            <ul class="flex flex-col gap-4 ">
+        <div class="flex flex-col md:flex-row gap-8">
+            <ul class="flex flex-col gap-4  ">
                 <li class="mb-2 font-semibold text-xl">Make Money With us</li>
                 <li>Shopper Opportunities</li>
                 <li>Become a Shopper</li>

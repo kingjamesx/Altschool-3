@@ -1,7 +1,7 @@
 <template>
     <div>
-      <h1 class="text-center font-bold mt-10 text-[#343538] text-4xl">Order groceries for delivery or pickup in <span class="text-[#0aad0a]">Lagos Island and Ikeja</span> </h1>
-      <section  class="grid grid-cols-3 gap-4  px-40 justify-center">
+      <h1 class="text-center font-bold mt-10 text-[#343538] text-2xl lg:text-4xl px-4 lg:px-0">Order groceries for delivery or pickup in <span class="text-[#0aad0a]">Lagos Island and Ikeja</span> </h1>
+      <section  class="grid  lg:grid-cols-3 gap-4  lg:px-40 justify-center ">
        <span v-for="item in deliveryData" :key="item.id" class="block">
         <delivery-card/>
         </span>

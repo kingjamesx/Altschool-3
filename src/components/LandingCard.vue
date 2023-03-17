@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#f6f7f8] p-5 w-[25%] px-10 text-[#343538]">
+    <div class="bg-[#f6f7f8] p-5 lg:w-[25%] lg:px-10 text-[#343538]">
          <p class="font-bold text-[30px]">{{title}}</p>
          <p class="mt-8 text-2xl">{{text}}</p>
     </div>
