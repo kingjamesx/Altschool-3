@@ -1,5 +1,5 @@
 # alt-exam
-[Live Link](https://altexam3.netlify.app/) 
+[Live Link](https://altexam3.netlify.app/) https://altexam3.netlify.app/
 
 
 ## Recommended IDE Setup
